@@ -1,0 +1,152 @@
+div.settingsholder
+{
+	width:904px;
+	height:500px;
+	margin:20px auto;
+	background:url("http://ramity.com/image/birds.jpg") no-repeat scroll 0px 0px / 100% 100% #fff;
+}
+div.settingssidebar
+{
+	width:98px;
+	height:500px;
+	float:left;
+	border-right:2px solid #fff;
+	background-color:rgba(255, 255, 255, 0.5);
+}
+div.settingssidebaritem
+{
+	width:78px;
+	height:30px;
+	padding:10px;
+	text-align:center;
+	line-height:30px;
+	font-size:11px;
+	color:#000;
+	float:left;
+	cursor:pointer;
+}
+div.settingssidebaritem:hover
+{
+	background-color:#fff;
+}
+div.activetab
+{
+	background-color:#6646AC;
+	color:#fff;
+}
+div.activetab:hover
+{
+	background-color:#6646AC;
+	box-shadow:inset 0px 0px 10px #000;
+}
+div.settingssidebarbreak
+{
+	width:98px;
+	height:2px;
+	background-color:#fff;
+	float:left;
+}
+div.settingscontent
+{
+	width:804px;
+	height:500px;
+	float:left;
+}
+div.settingscontentform
+{
+	width:604px;
+	height:300px;
+	float:left;
+	padding:50px;
+	margin:50px;
+	background-color:rgba(255,255,255,0.5);
+}
+div.settingscontentformheading
+{
+	width:604px;
+	height:48px;
+	line-height:48px;
+	font-size:24px;
+	border-bottom:solid #aaa 2px;
+	float:left;
+}
+form.settings
+{
+	width:604px;
+	height:50px;
+	margin:0px;
+	line-height:50px;
+	font-size:25px;
+	float:left;
+	background-color:#ccc;
+	margin-top:15px;
+}
+div.changeusernametext
+{
+	width:175px;
+	height:50px;
+	float:left;
+	font-size:17px;
+	text-align:center;
+	background-color:#fff;
+}
+input.changeusernametext
+{
+	width:140px;
+	height:30px;
+	float:left;
+	margin:10px 0px 10px 10px;
+	padding:10px;
+	border-radius:0px;
+	border:none;
+	outline:none;
+	font-style:italic;
+	-webkit-transition: box-shadow ease-in-out 0.15s, background-color ease-in-out 0.15s;
+	transition: box-shadow ease-in-out 0.15s, background-color ease-in-out 0.15s;
+}
+input.changeusernametext:focus
+{
+	box-shadow:0 0 8px #fff;
+	font-style:normal;
+}
+input.changeusernamesubmit
+{
+	width:109px;
+	height:30px;
+	float:left;
+	margin:10px;
+	border-radius:0px;
+	border:none;
+	outline:none;
+	background-color:#6646AC;
+	color:#fff;
+	line-height:0px;
+}
+div.errormessagebreak
+{
+	width:0px;
+	height:0px;
+	float:left;
+	margin:0px 297px;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+	border-bottom:10px solid #000;
+}
+div.errormessage
+{
+	width:208px;
+	border:1px solid #000;
+	float:left;
+	padding:20px;
+	margin:0px 177px;
+	text-align:center;
+	background:#fff;
+	border-radius:10px;
+}
+input#file
+{
+	width:280px;
+	height:22px;
+	float:left;
+	margin:14px 10px;
+}

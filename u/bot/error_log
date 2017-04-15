@@ -1,0 +1,2 @@
+[25-Jan-2014 17:35:29] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home4/db2/public_html/handle/follow.php on line 15
+[25-Jan-2014 18:23:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/db2/public_html/handle/follow.php on line 54

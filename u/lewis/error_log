@@ -1,0 +1,2 @@
+[25-Jan-2014 11:07:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/db2/public_html/handle/follow.php on line 25
+[25-Jan-2014 18:49:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/db2/public_html/handle/follow.php:99) in /home4/db2/public_html/handle/follow.php on line 112

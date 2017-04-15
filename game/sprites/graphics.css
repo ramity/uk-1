@@ -1,0 +1,101 @@
+body
+{
+	width:700px;
+	height:700px;
+	margin:0px auto;
+}
+div#map
+{
+	width:700px;
+	height:700px;
+	float:left;
+}
+div.mapitem
+{
+	width:25px;
+	height:25px;
+	float:left;
+	background-image:url(main.png);
+}
+div.wall_1011
+{
+	background-position:0px 0px;
+}
+div.wall_1010
+{
+	background-position:-25px 0px;
+}
+div.wall_1110
+{
+	background-position:-50px 0px;
+}
+div#character
+{
+	width:25px;
+	height:25px;
+	position:relative;
+	background-image:url(main.png);
+	background-position:-75px 0px;
+}
+div#wielded
+{
+	width:10px;
+	height:10px;
+	position:relative;
+	top:9px;
+	left:21px;
+	background-image:url(main.png);
+}
+div.dragon
+{
+	
+}
+/*END OF LINE ONE*/
+div.top_0101
+{
+	background-position:0px -25px;
+}
+div.wall_0111
+{
+	background-position:-25px -25px;
+}
+div.top_1101
+{
+	background-position:-50px -25px;
+}
+div.tree_1
+{
+	background-position:-75px -25px;
+}
+div.tree_2
+{
+	background-position:-100px -25px;
+}
+/*END OF LINE TWO*/
+div.top_1001
+{
+	background-position:0px -50px;
+}
+div.top_1100
+{
+	background-position:-25px -50px;
+}
+div.wall_0011
+{
+	background-position:-50px -50px;
+}
+/*END OF LINE THREE*/
+div.wall_0110
+{
+	background-position:0px -75px;
+}
+div.sword_diamond
+{
+	background-position:-75px -50px;
+}
+/*END OF LINE FOUR*/
+div.grass
+{
+	background-image:url(path.png)
+	background-position:0px 0px;
+}
